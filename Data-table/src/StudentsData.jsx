@@ -18,7 +18,27 @@ const students = [
     { "id": 1017, "name": "Quinn Gonzalez", "course": "Finance" },
     { "id": 1018, "name": "Ryan Perez", "course": "Marketing" },
     { "id": 1019, "name": "Sophia Clark", "course": "Psychology" },
-    { "id": 1020, "name": "Thomas Lewis", "course": "Environmental Science" }
+    { "id": 1020, "name": "Thomas Lewis", "course": "Environmental Science" },  
+    { "id": 1021, "name": "Uma Patel", "course": "Human Resource Management" },
+    { "id": 1022, "name": "Victor Nguyen", "course": "Cloud Computing" },
+    { "id": 1023, "name": "Wendy Kim", "course": "Digital Media" },
+    { "id": 1024, "name": "Xavier Collins", "course": "Game Development" },
+    { "id": 1025, "name": "Yar Ahmed", "course": "Health Informatics" },
+    { "id": 1026, "name": "Zachary Scott", "course": "Operations Management" },
+    { "id": 1027, "name": "Amelia Turner", "course": "Biomedical Engineering" },
+    { "id": 1028, "name": "Benjamin Hall", "course": "Statistics" },
+    { "id": 1029, "name": "Chloe Young", "course": "Sociology" },
+    { "id": 1030, "name": "David King", "course": "Supply Chain Management" },
+    { "id": 1031, "name": "Ella Wright", "course": "UI/UX Design" },
+    { "id": 1032, "name": "Felix Adams", "course": "Robotics" },
+    { "id": 1033, "name": "Hannah Baker", "course": "International Relations" },
+    { "id": 1034, "name": "Ian Nelson", "course": "Network Engineering" },
+    { "id": 1035, "name": "Julia Carter", "course": "Entrepreneurship" },
+    { "id": 1036, "name": "Kevin Mitchell", "course": "DevOps Engineering" },
+    { "id": 1037, "name": "Laura Perez", "course": "Public Health" },
+    { "id": 1038, "name": "Michael Roberts", "course": "Blockchain Technology" },
+    { "id": 1039, "name": "Natalie Evans", "course": "Forensic Science" },
+    { "id": 1040, "name": "Oscar Rivera", "course": "Machine Learning" }
 ]
 
 
